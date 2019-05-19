@@ -1,0 +1,1370 @@
+# depslib dependency file v1.0
+1463628539 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463626390 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\datos.h
+
+1463112862 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\buscar_jugador.h
+	"datos.h"
+
+1463188617 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\buscar_jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+
+1463106198 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\gotoxy.h
+
+1463106560 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\cuadrado.h
+
+1463626389 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463607528 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\consulta_general.h
+	"datos.h"
+
+1463626390 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+
+1463107544 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463628539 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463108276 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\teclado.h
+
+1463117558 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463628708 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463107075 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\registro.h
+	"datos.h"
+
+1463607528 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\jugar_teclado.h
+	"datos.h"
+
+1463607528 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\grabar_cancion.h
+	"datos.h"
+
+1463623525 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\bajas.h
+	"datos.h"
+
+1463626294 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463111355 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1463628596 source:c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463628539 c:\users\eduardoelliot_2\documents\proyectos en codeblock\jojo\modificaciones.h
+	"datos.h"
+
+1463709938 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\datos.h
+
+1463709764 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\bajas.h
+	"datos.h"
+
+1463699907 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\buscar_jugador.h
+	"datos.h"
+
+1463703957 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\buscar_jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+
+1463106560 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\cuadrado.h
+
+1463710162 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\consulta_general.h
+	"datos.h"
+
+1463706465 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463107544 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463717832 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\teclado.h
+
+1463117558 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463711113 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\grabar_cancion.h
+	"datos.h"
+
+1463628539 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\modificaciones.h
+	"datos.h"
+
+1463704215 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463111355 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1463713205 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463717666 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\buscar_registro.h
+	"datos.h"
+
+1463697790 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\imprimir.h
+	"datos.h"
+
+1463714695 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463718728 source:c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463716639 c:\users\eduardoelliot_2\desktop\jojo(sin archivos) - copy\guardar.h
+	"datos.h"
+
+1463709938 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\datos.h
+
+1463709764 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\bajas.h
+	"datos.h"
+
+1463699907 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\buscar_jugador.h
+	"datos.h"
+
+1463703957 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\buscar_jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+
+1463106560 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\cuadrado.h
+
+1463713205 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\consulta_general.h
+	"datos.h"
+
+1463790881 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\imprimir.h
+	"datos.h"
+
+1463790970 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\buscar_registro.h
+	"datos.h"
+
+1463107544 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\teclado.h
+
+1463716639 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\guardar.h
+	"datos.h"
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463117558 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463802781 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\grabar_cancion.h
+	"datos.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificaciones.h
+	"datos.h"
+
+1463802848 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+	"modificar_cancion.h"
+	"modificar_nombre_cancion.h"
+
+1463791126 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+	"buscar_registro.h"
+
+1463111355 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1463801842 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463802603 source:c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificar_nombre_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificar_cancion.h
+	"datos.h"
+
+1463802215 c:\users\eduardoelliot_2\desktop\jojo(con archivos)\modificar_nombre_cancion.h
+	"datos.h"
+
+1463709938 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\desktop\con archivos(copy)\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\desktop\con archivos(copy)\datos.h
+
+1463709764 c:\users\eduardoelliot_2\desktop\con archivos(copy)\bajas.h
+	"datos.h"
+
+1463713205 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463106560 c:\users\eduardoelliot_2\desktop\con archivos(copy)\cuadrado.h
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\desktop\con archivos(copy)\consulta_general.h
+	"datos.h"
+
+1463790881 c:\users\eduardoelliot_2\desktop\con archivos(copy)\imprimir.h
+	"datos.h"
+
+1463790970 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\con archivos(copy)\buscar_registro.h
+	"datos.h"
+
+1464032428 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\desktop\con archivos(copy)\teclado.h
+
+1463716639 c:\users\eduardoelliot_2\desktop\con archivos(copy)\guardar.h
+	"datos.h"
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463117558 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464032717 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"modificar_cancion.h"
+	"modificar_nombre_cancion.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificar_cancion.h
+	"datos.h"
+
+1463802215 c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificar_nombre_cancion.h
+	"datos.h"
+
+1463801842 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463802603 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificar_nombre_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1463791126 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+	"buscar_registro.h"
+
+1463111355 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1464032335 source:c:\users\eduardoelliot_2\desktop\con archivos(copy)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\con archivos(copy)\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\desktop\con archivos(copy)\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\desktop\con archivos(copy)\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\desktop\con archivos(copy)\grabar_cancion.h
+	"datos.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\con archivos(copy)\modificaciones.h
+	"datos.h"
+
+1463709938 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\datos.h
+
+1463709764 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\bajas.h
+	"datos.h"
+
+1463713205 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463106560 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\cuadrado.h
+
+1463790881 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\consulta_general.h
+	"datos.h"
+
+1463790881 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\imprimir.h
+	"datos.h"
+
+1463790970 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\buscar_registro.h
+	"datos.h"
+
+1464032428 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463774183 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\teclado.h
+
+1463716639 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\guardar.h
+	"datos.h"
+
+1464141487 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+
+1463790881 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463117558 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464032717 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"modificar_cancion.h"
+	"modificar_nombre_cancion.h"
+
+1463801189 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificar_cancion.h
+	"datos.h"
+
+1463802215 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificar_nombre_cancion.h
+	"datos.h"
+
+1463801842 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463802603 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificar_nombre_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464138750 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463111355 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1464137874 source:c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\grabar_cancion.h
+	"datos.h"
+
+1463801189 c:\users\eduardoelliot_2\documents\documentos\universidad\2do semestre\programacion estructurada\proyecto de programacion estructurada\con archivos(copy)\modificaciones.h
+	"datos.h"
+
+1463709938 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\datos.h
+
+1463709764 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\bajas.h
+	"datos.h"
+
+1463713205 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463106560 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\cuadrado.h
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\consulta_general.h
+	"datos.h"
+
+1463790881 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\imprimir.h
+	"datos.h"
+
+1463790970 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\buscar_registro.h
+	"datos.h"
+
+1464032428 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\teclado.h
+
+1463716639 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\guardar.h
+	"datos.h"
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463117558 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464137874 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\grabar_cancion.h
+	"datos.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificaciones.h
+	"datos.h"
+
+1464032717 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"modificar_cancion.h"
+	"modificar_nombre_cancion.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificar_cancion.h
+	"datos.h"
+
+1463802215 c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificar_nombre_cancion.h
+	"datos.h"
+
+1464362010 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"guardar.h"
+
+1463802603 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\modificar_nombre_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464138750 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463111355 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
+1464362435 source:c:\users\eduardoelliot_2\desktop\shilo\magic keyboardcopy\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+
+1463709938 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\bajas.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"buscar_jugador.h"
+
+1463106198 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\gotoxy.h
+
+1463626390 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\datos.h
+
+1463709764 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\bajas.h
+	"datos.h"
+
+1463713205 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\buscar_registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_jugador.h"
+
+1463106560 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\cuadrado.h
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\consulta_general.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"imprimir.h"
+
+1463697791 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\consulta_general.h
+	"datos.h"
+
+1463790881 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\imprimir.h
+	"datos.h"
+
+1463790970 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\consulta_nombre.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\buscar_registro.h
+	"datos.h"
+
+1464032428 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\cuadrado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1463106198 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\gotoxy.c
+	"gotoxy.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463774183 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\grabar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+	"guardar.h"
+
+1463108276 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\teclado.h
+
+1463716639 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\guardar.h
+	"datos.h"
+
+1464362435 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\guardar.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+
+1463790881 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\imprimir.c
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1463117558 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\jugar_teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464137874 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"consulta_general.h"
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"registro.h"
+	"consulta_nombre.h"
+	"teclado.h"
+	"jugar_teclado.h"
+	"grabar_cancion.h"
+	"bajas.h"
+	"modificaciones.h"
+
+1463696161 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\registro.h
+	"datos.h"
+
+1463699909 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\consulta_nombre.h
+	"datos.h"
+
+1463117558 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\jugar_teclado.h
+	"datos.h"
+
+1463711113 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\grabar_cancion.h
+	"datos.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificaciones.h
+	"datos.h"
+
+1464032717 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"bajas.h"
+	"modificar_cancion.h"
+	"modificar_nombre_cancion.h"
+
+1463801189 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificar_cancion.h
+	"datos.h"
+
+1463802215 c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificar_nombre_cancion.h
+	"datos.h"
+
+1464362010 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificar_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"guardar.h"
+
+1463802603 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\modificar_nombre_cancion.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"teclado.h"
+	"buscar_jugador.h"
+
+1464138750 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\registro.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+	"cuadrado.h"
+	"buscar_registro.h"
+
+1463111355 source:c:\users\eduardoelliot_2\desktop\magic keyboard1\magic keyboard\magic keyboard\teclado.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"gotoxy.h"
+	"datos.h"
+
